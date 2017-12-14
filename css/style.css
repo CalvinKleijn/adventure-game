@@ -1,0 +1,37 @@
+body {
+	background-color: #f3f3f3;
+	height: 100%;
+	font-family: Verdana;
+	text-align: center;
+}
+
+#uitleg {
+	width: 220px;
+	position: absolute;
+	left: 1060px;
+	top: 100px;
+	border: 1px solid black;
+	padding: 5px;
+	background-color: white;
+	font-size: 15px;
+}
+
+img {
+	border: 3px solid gray;
+}
+
+#button1 {
+	padding: 10px;
+}
+
+#button1:hover {
+	background-color: lightblue;
+}
+
+#button2 {
+	padding: 10px;
+}
+
+#button2:hover {
+	background-color: lightblue;
+}
